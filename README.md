@@ -1,4 +1,4 @@
-# BookingSystem
+# BookingSystem.git
 
 - 说明：A javafx project about a bookingsystem.
 
